@@ -1,0 +1,28 @@
+.about{
+    padding-top: 110px;
+   
+    border: none;
+    outline: none;
+   box-sizing: border-box;
+}
+h6{
+    font-size: 22px;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    color: rgb(19, 16, 16);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+    line-height: 1.2;
+
+}
+pre{
+font-family: 'Times New Roman', Times, serif;
+margin: 0;
+padding: 0;
+/* overflow: hidden; */
+}
+body{
+    background: rgb(246, 210, 210);
+}
+

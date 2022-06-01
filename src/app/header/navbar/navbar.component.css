@@ -1,0 +1,30 @@
+
+
+
+.navbar {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    transition: all o.3s ease-out;
+    background: url("../img/cdl.jpg");
+}
+.nav-item{
+    padding:5px 15px;
+    transition: all o.3s ease-out;
+}
+.img-fluid{
+    width: 200px;
+}
+
+.nav-link{
+    font-size: 25px; 
+    color:  rgb(236, 236, 236);
+    font-family: 'Times New Roman', Times, serif;
+}
+.nav-link:hover {
+    color:gold;
+       
+}
+.menu{
+    padding: 20px 40px;   
+}
